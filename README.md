@@ -44,7 +44,7 @@ ng serve
 ### 5️⃣ Open in browser
 [http://localhost:4200](http://localhost:4200)
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * Understanding Angular component architecture
 * Implementing CRUD operations in frontend applications
